@@ -79,7 +79,7 @@ Only **authorized vehicles** can enter the garage.
 This ensures **controlled access and enhanced security**.
 
 <p align="centre">
-<img width=20px alt="RFID image in the project" src="\imgs & video\entrance-&-RFID.jpeg">
+<img height=20px alt="RFID image in the project" src="\imgs & video\entrance-&-RFID.jpeg">
 📸 Image: RFID module & card scanning
 </p>
 
