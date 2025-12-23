@@ -291,7 +291,6 @@ void soundBuzzer(int numOfBeeps, int time) {
   
 }
 
-// Still not Workkkkkkkkkkkkkk :(
 // bluetooht Function
 bool bluetoothSerial() {
   if (Serial.available()) {
